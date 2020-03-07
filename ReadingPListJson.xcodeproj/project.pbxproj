@@ -13,6 +13,7 @@
 		9B1D609424130F8500101427 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B1D609224130F8500101427 /* Main.storyboard */; };
 		9B1D609624130F8700101427 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B1D609524130F8700101427 /* Assets.xcassets */; };
 		9B1D609924130F8700101427 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B1D609724130F8700101427 /* LaunchScreen.storyboard */; };
+		9B1D60A12413104200101427 /* Employee.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B1D60A02413104200101427 /* Employee.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9B1D609524130F8700101427 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B1D609824130F8700101427 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B1D609A24130F8700101427 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B1D60A02413104200101427 /* Employee.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Employee.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9B1D609524130F8700101427 /* Assets.xcassets */,
 				9B1D609724130F8700101427 /* LaunchScreen.storyboard */,
 				9B1D609A24130F8700101427 /* Info.plist */,
+				9B1D60A02413104200101427 /* Employee.plist */,
 			);
 			path = ReadingPListJson;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B1D60A12413104200101427 /* Employee.plist in Resources */,
 				9B1D609924130F8700101427 /* LaunchScreen.storyboard in Resources */,
 				9B1D609624130F8700101427 /* Assets.xcassets in Resources */,
 				9B1D609424130F8500101427 /* Main.storyboard in Resources */,
